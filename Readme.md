@@ -8,7 +8,7 @@
 - 🔭 Building real AI projects — not just assignments
 - 🌱 Currently exploring: LLMs, RAG systems, NLP pipelines
 - 📍 Lahore, Pakistan
-- 💼 Open to **Summer Internships 2025**
+- 💼 Open to **Summer Internships 2026**
 
 ---
 
