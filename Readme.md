@@ -6,7 +6,7 @@
 ---
 ## About
 
-Syed Tahir is a 4th-semester Bachelor of Science in Artificial Intelligence student at Superior University, Lahore, maintaining a CGPA of 3.82/4.00. He specializes in building end-to-end AI systems — from RAG pipelines where he built a conversational chatbot for [Superior University](https://superior.edu.pk), to NLP models, computer vision applications where he built an automated attendance system for his own [university class](https://github.com/Sta981/Face_Recognition_Attendance_System) using OpenCV, and full-stack web deployments including a business data analysis project for [InDrive](https://indrive.com) riders and drivers in Lahore. With over 9 production-level projects shipped and 2 years of university project leadership, Syed Tahir bridges the gap between academic AI research and real-world software delivery.
+Syed Tahir is a 4th-semester Bachelor of Science in Artificial Intelligence student at Superior University, Lahore, maintaining a CGPA of 3.82/4.00. He specializes in building end-to-end AI systems — including a RAG Based conversational chatbot for [Superior University](https://superior.edu.pk), an automated attendance system for his own [university class](https://github.com/Sta981/Face_Recognition_Attendance_System) using OpenCV, and a business data analysis project for [InDrive](https://indrive.com) riders and drivers in Lahore. With over 9 production-level projects shipped and 2 years of university project leadership, Syed Tahir bridges the gap between academic AI research and real-world software delivery.
 
 He is currently open to **Summer Internship 2026** opportunities in AI/ML Engineering.
 ---
