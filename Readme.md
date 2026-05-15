@@ -1,45 +1,73 @@
-<h1 align="center">Hi, I'm Syed Tahir 👋</h1>
-<h3 align="center">AI Student | RAG • NLP • ML | Superior University, Lahore</h3>
+# Syed Tahir Ali Shah
+
+**AI Engineer & Developer** | Lahore, Pakistan
+[LinkedIn](https://linkedin.com/in/syedtahir981) · [GitHub](https://github.com/Sta981) · naqvisyedtahir981@gmail.com
 
 ---
 
-### 🚀 About Me
-- 🎓 BS Artificial Intelligence — 4th Semester, Superior University (CGPA: 3.82/4.00)
-- 🔭 Building real AI projects — not just assignments
-- 🌱 Currently exploring: LLMs, RAG systems, NLP pipelines
-- 📍 Lahore, Pakistan
-- 💼 Open to **Summer Internships 2026**
+## About
+
+Syed Tahir is a 4th-semester Bachelor of Science in Artificial Intelligence student at Superior University, Lahore, maintaining a CGPA of 3.82/4.00. He specializes in building end-to-end AI systems — from RAG pipelines and NLP models to computer vision applications and full-stack web deployments. With over 9 production-level projects shipped and 2 years of university project leadership, Syed Tahir bridges the gap between academic AI research and real-world software delivery.
+
+He is currently open to **Summer Internship 2026** opportunities in AI/ML Engineering.
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+## Technical Skills
+
+**Languages** — Python, SQL
+
+**AI / ML / Deep Learning** — Scikit-Learn, XGBoost, LightGBM, TensorFlow, Keras, LangChain, FAISS, HuggingFace Transformers, Groq LLM
+
+**Computer Vision** — OpenCV, Dlib, CNN Architectures
+
+**Web & Frameworks** — Flask, Streamlit
+
+**Data & Databases** — Pandas, NumPy, SQL Server, SQLite, Relational DB Design, ERD, UML
+
+**Tools & Platforms** — Git, GitHub, Kaggle, Streamlit Cloud, Render
 
 ---
 
-### 📌 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [SuperiorInsight](https://github.com/Sta981/SuperiorInsight) | RAG chatbot for Superior University — 4,750+ pages indexed | Flask, LangChain, FAISS, Groq, HuggingFace |
-| [SmartKharch](https://github.com/Sta981/SmartSpend) | Personal finance tracker with WhatsApp alerts | Flask, SQL Server, Twilio |
-| [FakeShield](#) | Daraz fake review detector using NLP | Python, NLP, Random Forest |
-| [SmartSpend AI](#) | Finance prediction engine with ML | Streamlit, scikit-learn, Keras, SQLite |
-
----
-
-### 📜 Certifications
-- ✅ HackerRank — Python Basic
-- ✅ HackerRank — Problem Solving Basic
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **SuperiorInsight** | RAG-based conversational AI for Superior University — 4,750+ pages indexed | LangChain, FAISS, Groq, Flask, HuggingFace | [GitHub](https://github.com/Sta981/SuperiorInsight) · [Live](https://superiorinsight-1.onrender.com) |
+| **DeepFakeDetector** | Deep learning model to classify AI-generated fake images and videos | Python, CNN, OpenCV | [GitHub](https://github.com/Sta981/DeepFakeDetector) |
+| **Neura-Learn** | AI-powered personal study assistant with LLM-generated study plans and quizzes | Flask, LLM, HTML/CSS | [GitHub](https://github.com/Sta981/Neura-Learn-Personal-AI-Study-Assistant) · [Live](https://neura-learn-personal-ai-study-asistant.onrender.com) |
+| **Face Recognition Attendance System** | Real-time automated attendance system built for his own university class | Python, OpenCV, Dlib | [GitHub](https://github.com/Sta981/Face_Recognition_Attendance_System) |
+| **SceneSeeker** | Movie recommendation and live streaming system using NLP and TMDB API | Python, NLP, Streamlit | [GitHub](https://github.com/Sta981/SceneSeeker) · [Live](https://syed-sceneseeker.streamlit.app) |
+| **InDrive Ride Analysis Lahore** | Business data project for InDrive — primary research via surveys and ride records; insights for both riders and drivers | Python, Pandas, Streamlit | [GitHub](https://github.com/Sta981/IndriveAnalysisLahore) · [Live](https://indriveanalysislahore-kkaphhiqoejo36kwhfjoe9.streamlit.app) |
+| **SmartKharch** | Personal finance tracker with category budgeting and real-time WhatsApp alerts | Flask, SQL Server, Twilio | [GitHub](https://github.com/Sta981/SmartKharch) |
 
 ---
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedtahir981)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sta981)
+## Leadership & Experience
+
+**Mathematics Teaching Assistant** — Superior University *(2023 – 2024)*
+Delivered mathematics lectures and tutorials to undergraduate students, assisting faculty in curriculum delivery.
+
+**Project Lead** — Superior University AI/CS Projects *(2023 – Present)*
+Led student teams across 5+ projects over 2 years, managing task distribution, code reviews, and final presentations.
+
+**IUPC 2026 Programming Championship** — Ambassador & Competitor
+Served as official ambassador for the inter-university programming championship and participated as a competitor. Currently organizing a competitive programming event at Superior University.
+
+---
+
+## Certifications
+
+**Kaggle** — Intro to Programming, Intro to Machine Learning, Intermediate Machine Learning, Intro to Deep Learning, Machine Learning Explainability, Computer Vision, Intro to Game AI & Reinforcement Learning, Time Series, Feature Engineering, Data Cleaning
+
+**HackerRank** — Problem Solving (Basic), Python (Basic)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sta981&show_icons=true&theme=default&hide_border=true&title_color=1A56DB&icon_color=1A56DB)
+
+---
+
+*Open to internship opportunities in AI/ML Engineering. Based in Lahore, Pakistan.*
