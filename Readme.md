@@ -56,9 +56,21 @@ Served as official ambassador for the inter-university programming championship 
 
 ## Certifications
 
-**Kaggle** — Intro to Programming, Intro to Machine Learning, Intermediate Machine Learning, Intro to Deep Learning, Machine Learning Explainability, Computer Vision, Intro to Game AI & Reinforcement Learning, Time Series, Feature Engineering, Data Cleaning
+**Kaggle** 
+- Intro to Programming
+- Intro to Machine Learning
+- Intermediate Machine Learning
+- Intro to Deep Learning
+- Machine Learning Explainability
+- Computer Vision
+- Intro to Game AI & Reinforcement Learning
+- Time Series
+- Feature Engineering
+- Data Cleaning
 
-**HackerRank** — Problem Solving (Basic), Python (Basic)
+**HackerRank** 
+- Problem Solving (Basic)
+- Python (Basic)
 
 
 ---
