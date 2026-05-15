@@ -45,11 +45,11 @@ He is currently open to **Summer Internship 2026** opportunities in AI/ML Engine
 
 ## Leadership & Experience
 
-**Mathematics Teaching Assistant** — Superior University *(2023 – 2024)*
+**Mathematics Teaching Assistant** — Superior University *(2024 – 2026)*
 Delivered mathematics lectures and tutorials to undergraduate students, assisting faculty in curriculum delivery.
 
-**Project Lead** — Superior University AI/CS Projects *(2023 – Present)*
-Led student teams across 5+ projects over 2 years, managing task distribution, code reviews, and final presentations.
+**Project Lead** — Superior University AI/CS Projects *(2024 – Present)*
+Led student teams across 15+ projects over 2 years, managing task distribution, code reviews, and final presentations.
 
 **IUPC 2026 Programming Championship** — Ambassador & Competitor
 Served as official ambassador for the inter-university programming championship and participated as a competitor. Currently organizing a competitive programming event at Superior University.
@@ -62,11 +62,6 @@ Served as official ambassador for the inter-university programming championship 
 
 **HackerRank** — Problem Solving (Basic), Python (Basic)
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sta981&show_icons=true&theme=default&hide_border=true&title_color=1A56DB&icon_color=1A56DB)
 
 ---
 
