@@ -32,11 +32,11 @@ He is currently open to **Summer Internship 2026** opportunities in AI/ML Engine
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **SuperiorInsight** | RAG-based conversational AI for Superior University — **4,750+ pages** indexed across **50+ handbooks & PDFs**, **90% user satisfaction** across **100+ test queries** | LangChain, FAISS, Groq, Flask, HuggingFace | [GitHub](https://github.com/Sta981/SuperiorInsight) · [Live](https://superiorinsight-1.onrender.com) |
+| **InDrive Ride Analysis Lahore** | Business data project — **500+ real trips** and **150+ surveys** across **7 Lahore districts**; uncovered **11–15% fare overpayment** and **60% night fare premium** | Python, Pandas, Streamlit | [GitHub](https://github.com/Sta981/IndriveAnalysisLahore) · [Live](https://indriveanalysislahore-kkaphhiqoejo36kwhfjoe9.streamlit.app) |
+| **Face Recognition Attendance System** | Real-time automated attendance for **40+ students** at **90% accuracy**, actively used for **2 months** | Python, OpenCV, Dlib | [GitHub](https://github.com/Sta981/Face_Recognition_Attendance_System) |
 | **DeepFakeDetector** | Deep learning classifier trained on **5,000+ images** from Celeb-DF dataset achieving **92% validation accuracy** | Python, CNN, OpenCV | [GitHub](https://github.com/Sta981/DeepFakeDetector) |
 | **Neura-Learn** | AI-powered study assistant used by **150+ users** — LLM-generated study plans and quizzes via LLaMA 3.3 70B | Flask, LLaMA 3.3 70B, Groq API, HTML/CSS | [GitHub](https://github.com/Sta981/Neura-Learn-Personal-AI-Study-Assistant) · [Live](https://neura-learn-personal-ai-study-asistant.onrender.com) |
-| **Face Recognition Attendance System** | Real-time automated attendance for **40+ students** at **90% accuracy**, actively used for **2 months** | Python, OpenCV, Dlib | [GitHub](https://github.com/Sta981/Face_Recognition_Attendance_System) |
 | **SceneSeeker** | NLP recommendation engine on **5,000+ TMDB movies** with live streaming — **50+ monthly visits** | Python, NLP, Streamlit | [GitHub](https://github.com/Sta981/SceneSeeker) · [Live](https://syed-sceneseeker.streamlit.app) |
-| **InDrive Ride Analysis Lahore** | Business data project — **500+ real trips** and **150+ surveys** across **7 Lahore districts**; uncovered **11–15% fare overpayment** and **60% night fare premium** | Python, Pandas, Streamlit | [GitHub](https://github.com/Sta981/IndriveAnalysisLahore) · [Live](https://indriveanalysislahore-kkaphhiqoejo36kwhfjoe9.streamlit.app) |
 | **SmartKharch** | Personal finance tracker — **6 expense categories**, **6-table SQL schema**, real-time WhatsApp alerts via Twilio | Flask, SQL Server, Twilio | [GitHub](https://github.com/Sta981/SmartKharch) |
 
 ---
